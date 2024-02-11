@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo1239721
+- 👋 Hello World, I’m Leo1239721
 - 👀 I’m interested in learning machine
 - 🌱 I’m currently learning C#
 
